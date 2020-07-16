@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dz_2_1_3_and</string>
+    <string name="dz_name">Сроки задачи</string>
+    <string name="str_btn_ok">OK</string>
+    <string name="str_btn_start">Дата-время старта задачи:</string>
+    <string name="str_btn_end">Дата-время окончания задачи:</string>
+
+</resources>
